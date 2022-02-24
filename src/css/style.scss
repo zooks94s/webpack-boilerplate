@@ -1,0 +1,13 @@
+@use "sass:math";
+
+@import "ress";
+@import "../_style/variables";
+@import "../_style/base";
+
+.grid {
+  display: grid;
+}
+
+.bg {
+  background-image: url(../img/dummy.jpeg);
+}
